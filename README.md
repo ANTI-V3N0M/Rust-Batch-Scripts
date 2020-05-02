@@ -1,5 +1,5 @@
 # Rust-Batch-Script V1.0
-Rust Auto update Scripts made by Tiny_420
+Rust Auto update Scripts made by Tiny_420 AKA DeXr0
 
 Auto.cmd will update and start your server, Update.cmd will only update, 
 Make sure you edit the script variables and get the fallowing.
