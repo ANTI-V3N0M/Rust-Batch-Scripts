@@ -69,6 +69,11 @@ echo.
 cd %scripts%
 ::Start update Prossess
 
+::Check for download file
+if not exist %downloads% (
+mkdir %downloads%
+)
+
 ::Game Update
 cd %SteamCMD%
 if %validate% == true (
@@ -82,6 +87,8 @@ echo.
 echo Rust uptateing-validate equals %validate%! - %date%,%time%
 echo.
 )
+
+
 
 ::update oxide
 cd %wgetDirectory%
