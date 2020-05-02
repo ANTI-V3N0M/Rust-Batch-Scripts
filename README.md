@@ -10,4 +10,3 @@ Requires SteamCMD can be downloaded at the fallowing link. https://steamcdn-a.ak
 Requires you to get a Steam API key you can generate one at the fallowing link. https://steamcommunity.com/dev/apikey
 
 discord TINY_420#9755 if any recommendations, or if u need help. 
-
